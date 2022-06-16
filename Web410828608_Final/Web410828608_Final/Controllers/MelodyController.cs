@@ -27,7 +27,7 @@ namespace Web410828608_Final.Controllers
             else if (melody == 7)
                 result = "xi";
             else 
-                result = "請重新輸入";
+                result = "錯誤";
 
             ViewBag.Name = name;
             ViewBag.Result = result;
