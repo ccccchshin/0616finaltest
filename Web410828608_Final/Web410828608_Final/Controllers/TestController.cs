@@ -13,5 +13,9 @@ namespace Web410828608_Final.Controllers
         {
             return View();
         }
+        public ActionResult Index()
+        {
+            return View();
+        }
     }
 }
